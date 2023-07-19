@@ -1,8 +1,8 @@
-# One Dark Pale
+# One Dark Evo
 
 Do you enjoy the aesthetics of One Dark but the redness of your JavaScript code makes your eyes bleed?
 
-Well, try One Dark Pale 😉
+Well, try One Dark Evo 😉
 
 ## Javascript
 
@@ -12,12 +12,10 @@ No more red all over your JavaScript!
 Functions are carefully colored to maintain visual hierarchy.
 ![js screenshot](static/js2.png)
 
-
 ## Python
 
 Dimmed docstrings, calm colors.
 ![python screenshot](static/python.png)
-
 
 ## Markdown
 
