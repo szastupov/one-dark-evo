@@ -79,7 +79,7 @@
     "terminal.ansiBlue": "#87cdff",
     "terminal.ansiGreen": "#c0e599",
     "terminal.foreground": "#ede9de",
-    "terminal.ansiYellow": "#e5c07b",
+    "terminal.ansiYellow": "#E5C07B",
     "terminal.ansiRed": "#F19098",
     "editorBracketHighlight.foreground1": "#ede9de",
     "editorBracketHighlight.foreground2": "#f3bb8a",
@@ -137,7 +137,7 @@
       "name": "c++ control",
       "scope": "keyword.control.cpp",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -165,7 +165,7 @@
       "name": "math js/ts",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -179,14 +179,14 @@
       "name": "java type",
       "scope": "storage.type.annotation.java",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
       "name": "java modifier.import",
       "scope": "storage.modifier.import.java,storage.type.java",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -235,7 +235,7 @@
       "name": "js/ts module",
       "scope": "support.module.node,support.type.object.module,support.module.node",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -249,7 +249,7 @@
       "name": "js/ts Keyword",
       "scope": "keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.ternary",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
@@ -284,21 +284,21 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
       "name": "Java Imports",
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
       "name": "Packages",
       "scope": "token.package.keyword",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
@@ -326,14 +326,14 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -347,14 +347,14 @@
       "name": "Type Name",
       "scope": "entity.name.type, support.type.builtin",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
@@ -375,21 +375,21 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
       "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
       "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
       "name": "Java Storage",
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -410,7 +410,7 @@
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -473,7 +473,7 @@
       "name": "Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
@@ -513,7 +513,7 @@
       "name": "Italic",
       "scope": "emphasis md",
       "settings": {
-        "foreground": "#dea6ff"
+        "foreground": "#DEA6FF"
       }
     },
     {
@@ -633,7 +633,7 @@
       "name": "js ts this",
       "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#E5C07B"
       }
     },
     {
