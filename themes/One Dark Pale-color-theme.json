@@ -296,7 +296,7 @@
     },
     {
       "name": "Functions",
-      "scope": "entity.name.function, meta.function-call",
+      "scope": "entity.name.function, meta.function-call, support.type.python, support.type.exception.python",
       "settings": {
         "foreground": "#87cdff"
       }
@@ -317,9 +317,9 @@
     },
     {
       "name": "Classes",
-      "scope": "entity.name.type.namespace",
+      "scope": "entity.name.type.class",
       "settings": {
-        "foreground": "#F5CC6D"
+        "foreground": "#87CDFF"
       }
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "name": "Type Name",
-      "scope": "entity.name.type, support.type.builtin",
+      "scope": "entity.name.type, support.type",
       "settings": {
         "foreground": "#F5CC6D"
       }
@@ -386,13 +386,6 @@
       }
     },
     {
-      "name": "Support type",
-      "scope": "support.constant.font-name",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
       "name": "Strings",
       "scope": "string",
       "settings": {
@@ -435,10 +428,10 @@
       }
     },
     {
-      "name": "Constants",
-      "scope": "punctuation.definition.constant",
+      "name": "Constants CAPS Python",
+      "scope": "constant.other.caps.python",
       "settings": {
-        "foreground": "#F5CC6D"
+        "foreground": "#EDE9DE"
       }
     },
     {
@@ -452,7 +445,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F5CC6D"
+        "foreground": "#FFB76D"
       }
     },
     {
@@ -595,13 +588,6 @@
       }
     },
     {
-      "name": "JSON Property Name",
-      "scope": "support.type.property-name.json",
-      "settings": {
-        "foreground": "#FF708F"
-      }
-    },
-    {
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
@@ -616,17 +602,24 @@
       }
     },
     {
-      "name": "parameter function",
-      "scope": "function.parameter",
+      "name": "Property Name",
+      "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#F5CC6D"
+        "foreground": "#FF708F"
       }
     },
+    // {
+    //   "name": "parameters and arguments",
+    //   "scope": "function.parameter, variable.parameter.function-call, entity.other.attribute-name",
+    //   "settings": {
+    //     "foreground": "#FFB76D"
+    //   }
+    // },
     {
       "name": "js ts this",
       "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
-        "foreground": "#F5CC6D"
+        "foreground": "#F187FF"
       }
     },
     {
