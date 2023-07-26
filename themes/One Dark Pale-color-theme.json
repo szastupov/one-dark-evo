@@ -134,13 +134,6 @@
       }
     },
     {
-      "name": "c++ control",
-      "scope": "keyword.control.cpp",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
       "name": "js super",
       "scope": "variable.language.super.js",
       "settings": {
@@ -152,20 +145,6 @@
       "scope": "keyword.operator.expression.import",
       "settings": {
         "foreground": "#87cdff"
-      }
-    },
-    {
-      "name": "math js/ts",
-      "scope": "support.constant.math",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
-      "name": "math property js/ts",
-      "scope": "support.constant.property.math",
-      "settings": {
-        "foreground": "#F5CC6D"
       }
     },
     {
@@ -390,34 +369,6 @@
       "scope": "string",
       "settings": {
         "foreground": "#A3F56E"
-      }
-    },
-    {
-      "name": "Inherited Class",
-      "scope": "entity.other.inherited-class",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
-      "name": "Integers",
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
-      "name": "Floats",
-      "scope": "none",
-      "settings": {
-        "foreground": "#F5CC6D"
-      }
-    },
-    {
-      "name": "Boolean",
-      "scope": "none",
-      "settings": {
-        "foreground": "#F5CC6D"
       }
     },
     {
