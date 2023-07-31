@@ -1,5 +1,5 @@
 {
-  "name": "one-dark-pale",
+  "name": "one-dark-evo",
   "displayName": "One Dark Evo",
   "description": "Evolution of the iconic One Dark theme",
   "version": "0.6.0",
@@ -15,16 +15,16 @@
       {
         "label": "One Dark Evo",
         "uiTheme": "vs-dark",
-        "path": "./themes/One Dark Pale-color-theme.json"
+        "path": "./themes/One Dark Evo-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/szastupov/one-dark-pale.git"
+    "url": "https://github.com/szastupov/one-dark-evo.git"
   },
   "bugs": {
-    "url": "https://github.com/szastupov/one-dark-pale/issues"
+    "url": "https://github.com/szastupov/one-dark-evo/issues"
   },
   "icon": "static/icon.png",
   "keywords": [
