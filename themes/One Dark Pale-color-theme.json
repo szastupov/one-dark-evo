@@ -497,17 +497,10 @@
       }
     },
     {
-      "name": "Regular Expressions",
-      "scope": "string.regexp",
-      "settings": {
-        "foreground": "#57B6C2"
-      }
-    },
-    {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#F5CC6D"
       }
     },
     {
