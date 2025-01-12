@@ -12,6 +12,8 @@
     "list.inactiveSelectionForeground": "#d7dae0",
     "list.hoverBackground": "#292d35",
     "list.highlightForeground": "#c5c5c5",
+    "list.errorForeground": "#FF708F",
+    "list.warningForeground": "#ffd063",
     "button.background": "#4d78cc",
     "button.foreground": "#f8fafd",
     "badge.background": "#282c34",
