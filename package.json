@@ -2,7 +2,7 @@
   "name": "one-dark-evo",
   "displayName": "One Dark Evo",
   "description": "Evolution of the iconic One Dark theme",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "szastupov",
   "engines": {
     "vscode": "^1.15.0"
